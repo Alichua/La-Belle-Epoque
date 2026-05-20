@@ -29,13 +29,9 @@ Supported countries:
 
 ## Gallery
 
-### Stage 2: After Image Generation
-
-![Stage 2 after image generation](examples/stage2-after-image-gen.png)
-
-### Stage 1: Pixel Newspaper
-
-![Stage 1 pixel newspaper](examples/stage1-pixel-newspaper.png)
+| Stage 1: Pixel Newspaper | Stage 2: After Image Generation |
+| --- | --- |
+| <img src="examples/stage1-pixel-newspaper.png" width="420" alt="Stage 1 pixel newspaper"> | <img src="examples/stage2-after-image-gen.png" width="420" alt="Stage 2 after image generation"> |
 
 ## Install
 
