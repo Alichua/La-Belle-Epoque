@@ -1,0 +1,13 @@
+{
+  "source": "assets/newspaper/france/source-scans/le-petit-journal-header-1919.png",
+  "output": "assets/newspaper/france/historical-mastheads/le-petit-journal-1919-ink-pixel.png",
+  "size": [
+    1012,
+    231
+  ],
+  "crop": null,
+  "pixel_width": 720,
+  "colors": 3,
+  "monochrome": true,
+  "remove_light_background": false
+}

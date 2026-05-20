@@ -1,0 +1,33 @@
+{
+  "tooling_note": "Use this only after newspaper.png exists. The model ID is gpt-image-2. In Codex, the available surface may be the built-in image_gen tool rather than a tool literally named gpt-image-2.",
+  "output_suffix": "commercial-illustration",
+  "default_quality": "high",
+  "default_size": "auto",
+  "common_prompt_template": "Transform this image into a {style}. Preserve the original newspaper layout and composition. Replace pixel-art rendering with clean vector-like shapes and smooth airbrush gradients. Use neon accents, geometric architecture, large flat color areas, sharp sunlight shadows, simplified forms, minimal details, calm spacious atmosphere, tropical color palette, clean edges, retro editorial illustration style.",
+  "styles": {
+    "france": {
+      "style": "1890s Parisian Art Nouveau commercial poster illustration inspired by Belle Epoque boulevard lithography",
+      "prompt": "Transform this image into a 1890s Parisian Art Nouveau commercial poster illustration inspired by Belle Epoque boulevard lithography. Preserve the original newspaper layout and composition. Replace pixel-art rendering with clean vector-like shapes and smooth airbrush gradients. Use neon accents, geometric architecture, large flat color areas, sharp sunlight shadows, simplified forms, minimal details, calm spacious atmosphere, tropical color palette, clean edges, retro editorial illustration style."
+    },
+    "united-states": {
+      "style": "1980s American glossy consumer commercial illustration inspired by mall-culture, corporate annual-report, and early desktop-publishing aesthetics",
+      "prompt": "Transform this image into a 1980s American glossy consumer commercial illustration inspired by mall-culture, corporate annual-report, and early desktop-publishing aesthetics. Preserve the original newspaper layout and composition. Replace pixel-art rendering with clean vector-like shapes and smooth airbrush gradients. Use neon accents, geometric architecture, large flat color areas, sharp sunlight shadows, simplified forms, minimal details, calm spacious atmosphere, tropical color palette, clean edges, retro editorial illustration style."
+    },
+    "japan": {
+      "style": "1980s Japanese commercial illustration inspired by City Pop-era aesthetics",
+      "prompt": "Transform this image into a 1980s Japanese commercial illustration inspired by City Pop-era aesthetics. Preserve the original newspaper layout and composition. Replace pixel-art rendering with clean vector-like shapes and smooth airbrush gradients. Use neon accents, geometric architecture, large flat color areas, sharp sunlight shadows, simplified forms, minimal details, calm spacious atmosphere, tropical color palette, clean edges, retro editorial illustration style."
+    },
+    "china": {
+      "style": "1990s Chinese reform-era commercial illustration inspired by opening-up city posters, construction optimism, and early consumer advertising",
+      "prompt": "Transform this image into a 1990s Chinese reform-era commercial illustration inspired by opening-up city posters, construction optimism, and early consumer advertising. Preserve the original newspaper layout and composition. Replace pixel-art rendering with clean vector-like shapes and smooth airbrush gradients. Use neon accents, geometric architecture, large flat color areas, sharp sunlight shadows, simplified forms, minimal details, calm spacious atmosphere, tropical color palette, clean edges, retro editorial illustration style."
+    },
+    "hong-kong": {
+      "style": "1980s-1990s Hong Kong neon commercial illustration inspired by harbor cinema advertising, dense street signage, and pre-handover magazine graphics",
+      "prompt": "Transform this image into a 1980s-1990s Hong Kong neon commercial illustration inspired by harbor cinema advertising, dense street signage, and pre-handover magazine graphics. Preserve the original newspaper layout and composition. Replace pixel-art rendering with clean vector-like shapes and smooth airbrush gradients. Use neon accents, geometric architecture, large flat color areas, sharp sunlight shadows, simplified forms, minimal details, calm spacious atmosphere, tropical color palette, clean edges, retro editorial illustration style."
+    },
+    "korea": {
+      "style": "late-1980s Seoul Olympic-era commercial illustration inspired by Korean electronics ads, civic modernization posters, and clean developmental newspaper graphics",
+      "prompt": "Transform this image into a late-1980s Seoul Olympic-era commercial illustration inspired by Korean electronics ads, civic modernization posters, and clean developmental newspaper graphics. Preserve the original newspaper layout and composition. Replace pixel-art rendering with clean vector-like shapes and smooth airbrush gradients. Use neon accents, geometric architecture, large flat color areas, sharp sunlight shadows, simplified forms, minimal details, calm spacious atmosphere, tropical color palette, clean edges, retro editorial illustration style."
+    }
+  }
+}

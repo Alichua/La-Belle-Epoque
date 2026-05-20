@@ -1,0 +1,13 @@
+{
+  "source": "assets/newspaper/korea/source-scans/chosun-ilbo-commons.png",
+  "output": "assets/newspaper/korea/real-mastheads/chosun-ilbo-commons-pixel.png",
+  "size": [
+    1280,
+    262
+  ],
+  "crop": null,
+  "pixel_width": 720,
+  "colors": 6,
+  "monochrome": false,
+  "remove_light_background": false
+}

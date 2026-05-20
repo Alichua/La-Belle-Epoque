@@ -1,0 +1,13 @@
+{
+  "source": "assets/newspaper/japan/source-scans/asahi-shimbun-commons.png",
+  "output": "assets/newspaper/japan/real-mastheads/asahi-shimbun-commons-pixel.png",
+  "size": [
+    1280,
+    260
+  ],
+  "crop": null,
+  "pixel_width": 720,
+  "colors": 6,
+  "monochrome": false,
+  "remove_light_background": false
+}

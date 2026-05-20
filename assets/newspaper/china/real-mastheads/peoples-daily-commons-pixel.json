@@ -1,0 +1,13 @@
+{
+  "source": "assets/newspaper/china/source-scans/peoples-daily-commons.png",
+  "output": "assets/newspaper/china/real-mastheads/peoples-daily-commons-pixel.png",
+  "size": [
+    1280,
+    504
+  ],
+  "crop": null,
+  "pixel_width": 720,
+  "colors": 6,
+  "monochrome": false,
+  "remove_light_background": false
+}

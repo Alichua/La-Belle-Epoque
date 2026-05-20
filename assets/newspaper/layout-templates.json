@@ -1,0 +1,1391 @@
+{
+  "france": {
+    "layout_family": "illustrated-popular-half-format",
+    "decor": "nouveau",
+    "real_masthead_name": "Le Petit Journal",
+    "paper_color": "#f8f0dc",
+    "ink_color": "#2a1d1b",
+    "accent_color": "#d94d3f",
+    "muted_color": "#d8cdb8",
+    "masthead_names": [
+      "LE BOULEVARD MODERNE",
+      "LA GAZETTE ELECTRIQUE",
+      "LE PETIT BELLE EPOQUE"
+    ],
+    "real_masthead_assets": [
+      "assets/newspaper/france/real-mastheads/le-petit-journal-choice-01-archive-clean.png",
+      "assets/newspaper/france/real-mastheads/le-petit-journal-choice-02-press-bold.png",
+      "assets/newspaper/france/real-mastheads/le-petit-journal-choice-03-faded-scan.png",
+      "assets/newspaper/france/real-mastheads/le-petit-journal-choice-04-ruled-edition.png",
+      "assets/newspaper/france/real-mastheads/le-petit-journal-choice-05-boxed-print.png"
+    ],
+    "historical_masthead_assets": [
+      "assets/newspaper/france/real-mastheads/le-petit-journal-choice-01-archive-clean.png",
+      "assets/newspaper/france/real-mastheads/le-petit-journal-choice-02-press-bold.png",
+      "assets/newspaper/france/real-mastheads/le-petit-journal-choice-03-faded-scan.png",
+      "assets/newspaper/france/real-mastheads/le-petit-journal-choice-04-ruled-edition.png",
+      "assets/newspaper/france/real-mastheads/le-petit-journal-choice-05-boxed-print.png"
+    ],
+    "masthead_assets": [
+      "assets/newspaper/france/masthead-01.png",
+      "assets/newspaper/france/masthead-02.png",
+      "assets/newspaper/france/masthead-03.png"
+    ],
+    "divider_asset": "assets/newspaper/france/divider.png",
+    "badge_asset": "assets/newspaper/france/badge-special.png",
+    "advertising_labels": [
+      "PERFUME",
+      "BICYCLE",
+      "CABARET",
+      "METRO",
+      "CHOCOLAT",
+      "THEATRE"
+    ],
+    "default_ad_assets": [
+      "assets/newspaper/france/ad-01.png",
+      "assets/newspaper/france/ad-02.png",
+      "assets/newspaper/france/ad-03.png",
+      "assets/newspaper/france/ad-04.png",
+      "assets/newspaper/france/ad-05.png",
+      "assets/newspaper/france/ad-06.png"
+    ],
+    "use_static_ads_default": false,
+    "palette": [
+      "#2a1d1b",
+      "#4f3828",
+      "#8f642f",
+      "#c79a3c",
+      "#d94d3f",
+      "#1f4b4a",
+      "#2f766f",
+      "#f1d27a",
+      "#fff0d0",
+      "#f8f4e8",
+      "#e7e0d2"
+    ],
+    "layout_mode": "society_broadsheet",
+    "font_key": "latin-serif",
+    "page_width_ratio": 0.46,
+    "page_aspect_ratio": 1.0,
+    "output_scale": 2,
+    "margin_ratio": 0.036,
+    "max_margin_ratio": 0.04,
+    "age_filter_strength": 0.72,
+    "society_masthead_ratio": 0.155,
+    "society_article_ratio": 0.38,
+    "society_story_ratio": 0.33,
+    "society_lead_width_ratio": 0.54,
+    "lead_image_boost": 1.35,
+    "society_ad_rail": true,
+    "society_ad_rail_ratio": 0.08,
+    "society_flow_columns": 3,
+    "drop_cap_every": 2,
+    "ad_treatment": "direct-float-wrap",
+    "ad_align": "left",
+    "ad_wrap_padding": 8,
+    "small_scale": 1,
+    "body_scale": 1,
+    "section_label": "DERNIÈRE HEURE",
+    "header_ratio": 0.2,
+    "lower_ratio": 0.28,
+    "lead_ratio": 0.42,
+    "lead_image_scale": 1.0,
+    "masthead_box_ratio": 0.16,
+    "headline_lines": 3,
+    "deck_lines": 2,
+    "ad_default": 6,
+    "ad_columns": 2,
+    "ad_gap": 10,
+    "ad_min_width": 150,
+    "ad_min_height": 80,
+    "snippet_style": "staggered-columns",
+    "snippet_columns": 2,
+    "side_note_style": "boxed-column",
+    "side_note_height_ratio": 0.34,
+    "columns": 4,
+    "gutter": 10,
+    "ad_box_pattern": [
+      {
+        "x": 0.0,
+        "y": 0.02,
+        "w": 0.39,
+        "h": 0.45
+      },
+      {
+        "x": 0.43,
+        "y": 0.0,
+        "w": 0.26,
+        "h": 0.38
+      },
+      {
+        "x": 0.72,
+        "y": 0.07,
+        "w": 0.28,
+        "h": 0.42
+      },
+      {
+        "x": 0.08,
+        "y": 0.54,
+        "w": 0.29,
+        "h": 0.41
+      },
+      {
+        "x": 0.41,
+        "y": 0.48,
+        "w": 0.38,
+        "h": 0.48
+      },
+      {
+        "x": 0.82,
+        "y": 0.56,
+        "w": 0.18,
+        "h": 0.36
+      }
+    ],
+    "floating_ad_slots": [
+      {
+        "x": 0.67,
+        "y": 0.325,
+        "w": 0.15,
+        "h": 0.245,
+        "aspect": "tall",
+        "priority": 0
+      },
+      {
+        "x": 0.0,
+        "y": 0.665,
+        "w": 0.27,
+        "h": 0.12,
+        "aspect": "square",
+        "priority": 1
+      },
+      {
+        "x": 0.31,
+        "y": 0.825,
+        "w": 0.33,
+        "h": 0.105,
+        "aspect": "wide",
+        "priority": 2
+      },
+      {
+        "x": 0.67,
+        "y": 0.815,
+        "w": 0.33,
+        "h": 0.115,
+        "aspect": "wide",
+        "priority": 3
+      },
+      {
+        "x": 0.0,
+        "y": 0.83,
+        "w": 0.26,
+        "h": 0.115,
+        "aspect": "square",
+        "priority": 4
+      }
+    ],
+    "layout_slots": {
+      "masthead": {
+        "x": 0.08,
+        "y": 0.003,
+        "w": 0.84,
+        "h": 0.118
+      },
+      "issue": {
+        "x": 0.0,
+        "y": 0.135,
+        "w": 1.0,
+        "h": 0.028
+      },
+      "headline": {
+        "x": 0.0,
+        "y": 0.18,
+        "w": 1.0,
+        "h": 0.08
+      },
+      "deck": {
+        "x": 0.48,
+        "y": 0.245,
+        "w": 0.52,
+        "h": 0.05
+      },
+      "lead": {
+        "x": 0.42,
+        "y": 0.3,
+        "w": 0.58,
+        "h": 0.33
+      },
+      "caption": {
+        "x": 0.42,
+        "y": 0.64,
+        "w": 0.58,
+        "h": 0.04
+      },
+      "snippets": {
+        "x": 0.0,
+        "y": 0.65,
+        "w": 1.0,
+        "h": 0.16
+      },
+      "ads": {
+        "x": 0.0,
+        "y": 0.835,
+        "w": 1.0,
+        "h": 0.115
+      }
+    },
+    "retro_filter": "belle-epoque-print",
+    "retro_filter_strength": 0.42
+  },
+  "united-states": {
+    "layout_family": "modular-color-section-front",
+    "decor": "section",
+    "real_masthead_name": "USA Today",
+    "paper_color": "#f7f8f5",
+    "ink_color": "#07111f",
+    "accent_color": "#22aee6",
+    "muted_color": "#c6ccd4",
+    "masthead_names": [
+      "THE AMERICAN SIGNAL",
+      "MARKET STREET DAILY",
+      "THE NEON CHRONICLE"
+    ],
+    "real_masthead_assets": [
+      "assets/newspaper/united-states/real-mastheads/usa-today-choice-01-archive-clean.png",
+      "assets/newspaper/united-states/real-mastheads/usa-today-choice-02-press-bold.png",
+      "assets/newspaper/united-states/real-mastheads/usa-today-choice-03-faded-scan.png",
+      "assets/newspaper/united-states/real-mastheads/usa-today-choice-04-ruled-edition.png",
+      "assets/newspaper/united-states/real-mastheads/usa-today-choice-05-boxed-print.png"
+    ],
+    "historical_masthead_assets": [
+      "assets/newspaper/united-states/real-mastheads/usa-today-choice-01-archive-clean.png",
+      "assets/newspaper/united-states/real-mastheads/usa-today-choice-02-press-bold.png",
+      "assets/newspaper/united-states/real-mastheads/usa-today-choice-03-faded-scan.png",
+      "assets/newspaper/united-states/real-mastheads/usa-today-choice-04-ruled-edition.png",
+      "assets/newspaper/united-states/real-mastheads/usa-today-choice-05-boxed-print.png"
+    ],
+    "masthead_assets": [
+      "assets/newspaper/united-states/masthead-01.png",
+      "assets/newspaper/united-states/masthead-02.png",
+      "assets/newspaper/united-states/masthead-03.png"
+    ],
+    "divider_asset": "assets/newspaper/united-states/divider.png",
+    "badge_asset": "assets/newspaper/united-states/badge-special.png",
+    "advertising_labels": [
+      "PC SALE",
+      "MALL",
+      "VHS",
+      "SNEAKER",
+      "DINER",
+      "MARKET"
+    ],
+    "default_ad_assets": [
+      "assets/newspaper/united-states/ad-01.png",
+      "assets/newspaper/united-states/ad-02.png",
+      "assets/newspaper/united-states/ad-03.png",
+      "assets/newspaper/united-states/ad-04.png",
+      "assets/newspaper/united-states/ad-05.png",
+      "assets/newspaper/united-states/ad-06.png"
+    ],
+    "use_static_ads_default": false,
+    "palette": [
+      "#050712",
+      "#111a33",
+      "#1f3b73",
+      "#2952a3",
+      "#39d3ff",
+      "#ff2f92",
+      "#ffd13b",
+      "#f28b30",
+      "#c8d0da",
+      "#f6f7fb",
+      "#222222"
+    ],
+    "page_width_ratio": 1.1,
+    "page_height_ratio": 1.44,
+    "header_ratio": 0.18,
+    "lower_ratio": 0.24,
+    "lead_ratio": 0.43,
+    "lead_image_scale": 1.0,
+    "masthead_box_ratio": 0.14,
+    "headline_lines": 2,
+    "deck_lines": 1,
+    "ad_default": 6,
+    "ad_columns": 2,
+    "ad_gap": 12,
+    "ad_min_width": 190,
+    "ad_min_height": 115,
+    "snippet_style": "staggered-columns",
+    "snippet_columns": 1,
+    "columns": 6,
+    "gutter": 12,
+    "ad_box_pattern": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 1.0,
+        "h": 0.2
+      },
+      {
+        "x": 0.04,
+        "y": 0.24,
+        "w": 0.45,
+        "h": 0.22
+      },
+      {
+        "x": 0.53,
+        "y": 0.22,
+        "w": 0.43,
+        "h": 0.26
+      },
+      {
+        "x": 0.0,
+        "y": 0.53,
+        "w": 0.48,
+        "h": 0.2
+      },
+      {
+        "x": 0.53,
+        "y": 0.56,
+        "w": 0.47,
+        "h": 0.2
+      },
+      {
+        "x": 0.08,
+        "y": 0.8,
+        "w": 0.84,
+        "h": 0.18
+      }
+    ],
+    "layout_slots": {
+      "masthead": {
+        "x": 0.04,
+        "y": 0.005,
+        "w": 0.36,
+        "h": 0.085
+      },
+      "issue": {
+        "x": 0.43,
+        "y": 0.02,
+        "w": 0.24,
+        "h": 0.026
+      },
+      "badge": {
+        "x": 0.74,
+        "y": 0.012,
+        "w": 0.24,
+        "h": 0.055
+      },
+      "headline": {
+        "x": 0.0,
+        "y": 0.165,
+        "w": 0.68,
+        "h": 0.085
+      },
+      "deck": {
+        "x": 0.0,
+        "y": 0.248,
+        "w": 0.68,
+        "h": 0.03
+      },
+      "lead": {
+        "x": 0.0,
+        "y": 0.3,
+        "w": 0.68,
+        "h": 0.42
+      },
+      "caption": {
+        "x": 0.0,
+        "y": 0.735,
+        "w": 0.68,
+        "h": 0.03
+      },
+      "snippets": {
+        "x": 0.72,
+        "y": 0.15,
+        "w": 0.28,
+        "h": 0.25
+      },
+      "ads": {
+        "x": 0.72,
+        "y": 0.435,
+        "w": 0.28,
+        "h": 0.485
+      }
+    },
+    "font_key": "ascii-pixel",
+    "floating_ad_slots": [
+      {
+        "x": 0.72,
+        "y": 0.415,
+        "w": 0.28,
+        "h": 0.155,
+        "aspect": "square",
+        "priority": 0
+      },
+      {
+        "x": 0.72,
+        "y": 0.595,
+        "w": 0.28,
+        "h": 0.145,
+        "aspect": "square",
+        "priority": 1
+      },
+      {
+        "x": 0.0,
+        "y": 0.8,
+        "w": 0.44,
+        "h": 0.12,
+        "aspect": "wide",
+        "priority": 2
+      },
+      {
+        "x": 0.48,
+        "y": 0.792,
+        "w": 0.3,
+        "h": 0.155,
+        "aspect": "square",
+        "priority": 3
+      },
+      {
+        "x": 0.82,
+        "y": 0.77,
+        "w": 0.18,
+        "h": 0.185,
+        "aspect": "tall",
+        "priority": 4
+      },
+      {
+        "x": 0.0,
+        "y": 0.93,
+        "w": 0.7,
+        "h": 0.055,
+        "aspect": "wide",
+        "priority": 5
+      }
+    ],
+    "retro_filter": "belle-epoque-print",
+    "retro_filter_strength": 0.4
+  },
+  "japan": {
+    "layout_family": "compact-evening-grid",
+    "decor": "tabs",
+    "real_masthead_name": "The Asahi Shimbun",
+    "paper_color": "#f4f0df",
+    "ink_color": "#17141f",
+    "accent_color": "#d92f8a",
+    "muted_color": "#c8baa1",
+    "masthead_names": [
+      "TOKYO EVENING PRESS",
+      "GINZA CITY TIMES",
+      "SHOWA SIGNAL"
+    ],
+    "real_masthead_assets": [
+      "assets/newspaper/japan/real-mastheads/asahi-shimbun-choice-01-archive-clean.png",
+      "assets/newspaper/japan/real-mastheads/asahi-shimbun-choice-02-press-bold.png",
+      "assets/newspaper/japan/real-mastheads/asahi-shimbun-choice-03-faded-scan.png",
+      "assets/newspaper/japan/real-mastheads/asahi-shimbun-choice-04-ruled-edition.png",
+      "assets/newspaper/japan/real-mastheads/asahi-shimbun-choice-05-boxed-print.png"
+    ],
+    "historical_masthead_assets": [
+      "assets/newspaper/japan/real-mastheads/asahi-shimbun-choice-01-archive-clean.png",
+      "assets/newspaper/japan/real-mastheads/asahi-shimbun-choice-02-press-bold.png",
+      "assets/newspaper/japan/real-mastheads/asahi-shimbun-choice-03-faded-scan.png",
+      "assets/newspaper/japan/real-mastheads/asahi-shimbun-choice-04-ruled-edition.png",
+      "assets/newspaper/japan/real-mastheads/asahi-shimbun-choice-05-boxed-print.png"
+    ],
+    "masthead_assets": [
+      "assets/newspaper/japan/masthead-01.png",
+      "assets/newspaper/japan/masthead-02.png",
+      "assets/newspaper/japan/masthead-03.png"
+    ],
+    "divider_asset": "assets/newspaper/japan/divider.png",
+    "badge_asset": "assets/newspaper/japan/badge-special.png",
+    "advertising_labels": [
+      "CASSETTE",
+      "RECORDS",
+      "TAXI",
+      "VENDOR",
+      "CAMERA",
+      "TRAIN"
+    ],
+    "default_ad_assets": [
+      "assets/newspaper/japan/ad-01.png",
+      "assets/newspaper/japan/ad-02.png",
+      "assets/newspaper/japan/ad-03.png",
+      "assets/newspaper/japan/ad-04.png",
+      "assets/newspaper/japan/ad-05.png",
+      "assets/newspaper/japan/ad-06.png"
+    ],
+    "use_static_ads_default": false,
+    "palette": [
+      "#060817",
+      "#101d3a",
+      "#245f8f",
+      "#2aa7c8",
+      "#74e3d8",
+      "#f4f2d6",
+      "#ffd49a",
+      "#ff5f6d",
+      "#d92f8a",
+      "#7e3fb3",
+      "#2c2c35"
+    ],
+    "page_width_ratio": 1.08,
+    "page_height_ratio": 1.5,
+    "header_ratio": 0.17,
+    "lower_ratio": 0.23,
+    "lead_ratio": 0.47,
+    "lead_image_scale": 1.0,
+    "masthead_box_ratio": 0.13,
+    "headline_lines": 2,
+    "deck_lines": 1,
+    "ad_default": 6,
+    "ad_columns": 3,
+    "ad_gap": 12,
+    "ad_min_width": 190,
+    "ad_min_height": 110,
+    "snippet_style": "staggered-columns",
+    "snippet_columns": 1,
+    "columns": 9,
+    "gutter": 9,
+    "ad_box_pattern": [
+      {
+        "x": 0.0,
+        "y": 0.02,
+        "w": 0.23,
+        "h": 0.82
+      },
+      {
+        "x": 0.26,
+        "y": 0.0,
+        "w": 0.22,
+        "h": 0.7
+      },
+      {
+        "x": 0.51,
+        "y": 0.08,
+        "w": 0.22,
+        "h": 0.78
+      },
+      {
+        "x": 0.76,
+        "y": 0.03,
+        "w": 0.24,
+        "h": 0.68
+      },
+      {
+        "x": 0.27,
+        "y": 0.76,
+        "w": 0.31,
+        "h": 0.22
+      },
+      {
+        "x": 0.62,
+        "y": 0.76,
+        "w": 0.36,
+        "h": 0.22
+      }
+    ],
+    "layout_slots": {
+      "masthead": {
+        "x": 0.0,
+        "y": 0.005,
+        "w": 0.48,
+        "h": 0.085
+      },
+      "issue": {
+        "x": 0.52,
+        "y": 0.018,
+        "w": 0.25,
+        "h": 0.026
+      },
+      "badge": {
+        "x": 0.82,
+        "y": 0.012,
+        "w": 0.18,
+        "h": 0.05
+      },
+      "headline": {
+        "x": 0.0,
+        "y": 0.125,
+        "w": 0.76,
+        "h": 0.075
+      },
+      "deck": {
+        "x": 0.0,
+        "y": 0.2,
+        "w": 0.76,
+        "h": 0.03
+      },
+      "lead": {
+        "x": 0.0,
+        "y": 0.255,
+        "w": 0.76,
+        "h": 0.465
+      },
+      "caption": {
+        "x": 0.0,
+        "y": 0.73,
+        "w": 0.76,
+        "h": 0.03
+      },
+      "snippets": {
+        "x": 0.8,
+        "y": 0.125,
+        "w": 0.2,
+        "h": 0.595
+      },
+      "ads": {
+        "x": 0.0,
+        "y": 0.805,
+        "w": 1.0,
+        "h": 0.16
+      }
+    },
+    "font_key": "japanese-gothic",
+    "floating_ad_slots": [
+      {
+        "x": 0.8,
+        "y": 0.39,
+        "w": 0.2,
+        "h": 0.165,
+        "aspect": "tall",
+        "priority": 0
+      },
+      {
+        "x": 0.8,
+        "y": 0.585,
+        "w": 0.2,
+        "h": 0.135,
+        "aspect": "square",
+        "priority": 1
+      },
+      {
+        "x": 0.0,
+        "y": 0.79,
+        "w": 0.32,
+        "h": 0.16,
+        "aspect": "wide",
+        "priority": 2
+      },
+      {
+        "x": 0.36,
+        "y": 0.77,
+        "w": 0.26,
+        "h": 0.185,
+        "aspect": "square",
+        "priority": 3
+      },
+      {
+        "x": 0.66,
+        "y": 0.785,
+        "w": 0.34,
+        "h": 0.135,
+        "aspect": "wide",
+        "priority": 4
+      },
+      {
+        "x": 0.68,
+        "y": 0.93,
+        "w": 0.32,
+        "h": 0.055,
+        "aspect": "wide",
+        "priority": 5
+      }
+    ],
+    "retro_filter": "belle-epoque-print",
+    "retro_filter_strength": 0.4
+  },
+  "china": {
+    "layout_family": "civic-grid-announcement",
+    "decor": "civic",
+    "real_masthead_name": "People's Daily",
+    "paper_color": "#f5ead0",
+    "ink_color": "#171411",
+    "accent_color": "#b71e22",
+    "muted_color": "#d2bd98",
+    "masthead_names": [
+      "OPEN CITY DAILY",
+      "REFORM MORNING NEWS",
+      "THE RIVERFRONT BUILDER"
+    ],
+    "real_masthead_assets": [
+      "assets/newspaper/china/real-mastheads/peoples-daily-choice-01-archive-clean.png",
+      "assets/newspaper/china/real-mastheads/peoples-daily-choice-02-press-bold.png",
+      "assets/newspaper/china/real-mastheads/peoples-daily-choice-03-faded-scan.png",
+      "assets/newspaper/china/real-mastheads/peoples-daily-choice-04-ruled-edition.png",
+      "assets/newspaper/china/real-mastheads/peoples-daily-choice-05-boxed-print.png"
+    ],
+    "historical_masthead_assets": [
+      "assets/newspaper/china/real-mastheads/peoples-daily-choice-01-archive-clean.png",
+      "assets/newspaper/china/real-mastheads/peoples-daily-choice-02-press-bold.png",
+      "assets/newspaper/china/real-mastheads/peoples-daily-choice-03-faded-scan.png",
+      "assets/newspaper/china/real-mastheads/peoples-daily-choice-04-ruled-edition.png",
+      "assets/newspaper/china/real-mastheads/peoples-daily-choice-05-boxed-print.png"
+    ],
+    "masthead_assets": [
+      "assets/newspaper/china/masthead-01.png",
+      "assets/newspaper/china/masthead-02.png",
+      "assets/newspaper/china/masthead-03.png"
+    ],
+    "divider_asset": "assets/newspaper/china/divider.png",
+    "badge_asset": "assets/newspaper/china/badge-special.png",
+    "advertising_labels": [
+      "APPLIANCE",
+      "BICYCLE",
+      "CRANE",
+      "HOUSING",
+      "PAGER",
+      "BUS"
+    ],
+    "default_ad_assets": [
+      "assets/newspaper/china/ad-01.png",
+      "assets/newspaper/china/ad-02.png",
+      "assets/newspaper/china/ad-03.png",
+      "assets/newspaper/china/ad-04.png",
+      "assets/newspaper/china/ad-05.png",
+      "assets/newspaper/china/ad-06.png"
+    ],
+    "use_static_ads_default": false,
+    "palette": [
+      "#071b24",
+      "#123746",
+      "#1d6070",
+      "#2e9aa0",
+      "#77d1c8",
+      "#f2e3bf",
+      "#f1c232",
+      "#f08b32",
+      "#d9482e",
+      "#a42020",
+      "#5b6970"
+    ],
+    "page_width_ratio": 1.08,
+    "page_height_ratio": 1.52,
+    "header_ratio": 0.19,
+    "lower_ratio": 0.23,
+    "lead_ratio": 0.42,
+    "lead_image_scale": 1.0,
+    "masthead_box_ratio": 0.13,
+    "headline_lines": 2,
+    "deck_lines": 1,
+    "ad_default": 6,
+    "ad_columns": 3,
+    "columns": 6,
+    "gutter": 12,
+    "layout_slots": {
+      "masthead": {
+        "x": 0.08,
+        "y": 0.005,
+        "w": 0.44,
+        "h": 0.105
+      },
+      "issue": {
+        "x": 0.58,
+        "y": 0.02,
+        "w": 0.22,
+        "h": 0.026
+      },
+      "badge": {
+        "x": 0.82,
+        "y": 0.012,
+        "w": 0.18,
+        "h": 0.05
+      },
+      "headline": {
+        "x": 0.0,
+        "y": 0.15,
+        "w": 1.0,
+        "h": 0.075
+      },
+      "deck": {
+        "x": 0.0,
+        "y": 0.225,
+        "w": 1.0,
+        "h": 0.03
+      },
+      "lead": {
+        "x": 0.0,
+        "y": 0.285,
+        "w": 0.65,
+        "h": 0.405
+      },
+      "caption": {
+        "x": 0.0,
+        "y": 0.7,
+        "w": 0.65,
+        "h": 0.03
+      },
+      "snippets": {
+        "x": 0.68,
+        "y": 0.285,
+        "w": 0.32,
+        "h": 0.405
+      },
+      "ads": {
+        "x": 0.0,
+        "y": 0.785,
+        "w": 1.0,
+        "h": 0.175
+      }
+    },
+    "font_key": "chinese-heiti",
+    "ad_gap": 12,
+    "ad_min_width": 190,
+    "ad_min_height": 110,
+    "snippet_style": "staggered-columns",
+    "snippet_columns": 2,
+    "floating_ad_slots": [
+      {
+        "x": 0.69,
+        "y": 0.305,
+        "w": 0.31,
+        "h": 0.15,
+        "aspect": "wide",
+        "priority": 0
+      },
+      {
+        "x": 0.72,
+        "y": 0.485,
+        "w": 0.28,
+        "h": 0.175,
+        "aspect": "square",
+        "priority": 1
+      },
+      {
+        "x": 0.0,
+        "y": 0.765,
+        "w": 0.3,
+        "h": 0.165,
+        "aspect": "square",
+        "priority": 2
+      },
+      {
+        "x": 0.34,
+        "y": 0.79,
+        "w": 0.38,
+        "h": 0.115,
+        "aspect": "wide",
+        "priority": 3
+      },
+      {
+        "x": 0.76,
+        "y": 0.745,
+        "w": 0.24,
+        "h": 0.22,
+        "aspect": "tall",
+        "priority": 4
+      },
+      {
+        "x": 0.02,
+        "y": 0.94,
+        "w": 0.62,
+        "h": 0.05,
+        "aspect": "wide",
+        "priority": 5
+      }
+    ],
+    "ad_box_pattern": [
+      {
+        "x": 0.0,
+        "y": 0.03,
+        "w": 0.25,
+        "h": 0.76
+      },
+      {
+        "x": 0.28,
+        "y": 0.0,
+        "w": 0.2,
+        "h": 0.66
+      },
+      {
+        "x": 0.51,
+        "y": 0.07,
+        "w": 0.22,
+        "h": 0.72
+      },
+      {
+        "x": 0.76,
+        "y": 0.02,
+        "w": 0.24,
+        "h": 0.66
+      },
+      {
+        "x": 0.3,
+        "y": 0.72,
+        "w": 0.32,
+        "h": 0.24
+      },
+      {
+        "x": 0.66,
+        "y": 0.75,
+        "w": 0.3,
+        "h": 0.22
+      }
+    ],
+    "retro_filter": "belle-epoque-print",
+    "retro_filter_strength": 0.42
+  },
+  "hong-kong": {
+    "layout_family": "dense-commercial-color-tabloid",
+    "decor": "neon",
+    "real_masthead_name": "Apple Daily",
+    "paper_color": "#f6efe2",
+    "ink_color": "#101018",
+    "accent_color": "#d72843",
+    "muted_color": "#c9bca9",
+    "masthead_names": [
+      "HARBOUR EVENING",
+      "NEON HARBOUR DAILY",
+      "THE COUNTDOWN POST"
+    ],
+    "real_masthead_assets": [
+      "assets/newspaper/hong-kong/real-mastheads/apple-daily-choice-01-archive-clean.png",
+      "assets/newspaper/hong-kong/real-mastheads/apple-daily-choice-02-press-bold.png",
+      "assets/newspaper/hong-kong/real-mastheads/apple-daily-choice-03-faded-scan.png",
+      "assets/newspaper/hong-kong/real-mastheads/apple-daily-choice-04-ruled-edition.png",
+      "assets/newspaper/hong-kong/real-mastheads/apple-daily-choice-05-boxed-print.png"
+    ],
+    "historical_masthead_assets": [
+      "assets/newspaper/hong-kong/real-mastheads/apple-daily-choice-01-archive-clean.png",
+      "assets/newspaper/hong-kong/real-mastheads/apple-daily-choice-02-press-bold.png",
+      "assets/newspaper/hong-kong/real-mastheads/apple-daily-choice-03-faded-scan.png",
+      "assets/newspaper/hong-kong/real-mastheads/apple-daily-choice-04-ruled-edition.png",
+      "assets/newspaper/hong-kong/real-mastheads/apple-daily-choice-05-boxed-print.png"
+    ],
+    "masthead_assets": [
+      "assets/newspaper/hong-kong/masthead-01.png",
+      "assets/newspaper/hong-kong/masthead-02.png",
+      "assets/newspaper/hong-kong/masthead-03.png"
+    ],
+    "divider_asset": "assets/newspaper/hong-kong/divider.png",
+    "badge_asset": "assets/newspaper/hong-kong/badge-special.png",
+    "advertising_labels": [
+      "TAXI",
+      "WATCH",
+      "TEA",
+      "FERRY",
+      "CINEMA",
+      "JEWEL"
+    ],
+    "default_ad_assets": [
+      "assets/newspaper/hong-kong/ad-01.png",
+      "assets/newspaper/hong-kong/ad-02.png",
+      "assets/newspaper/hong-kong/ad-03.png",
+      "assets/newspaper/hong-kong/ad-04.png",
+      "assets/newspaper/hong-kong/ad-05.png",
+      "assets/newspaper/hong-kong/ad-06.png"
+    ],
+    "use_static_ads_default": false,
+    "palette": [
+      "#030914",
+      "#071b33",
+      "#0b3f5f",
+      "#0c7f96",
+      "#20d2d6",
+      "#ffd33d",
+      "#f39a24",
+      "#ff4b38",
+      "#ff2aa3",
+      "#8526b8",
+      "#1c1c22"
+    ],
+    "page_width_ratio": 1.08,
+    "page_height_ratio": 1.42,
+    "header_ratio": 0.17,
+    "lower_ratio": 0.24,
+    "lead_ratio": 0.49,
+    "lead_image_scale": 1.0,
+    "masthead_box_ratio": 0.12,
+    "headline_lines": 2,
+    "deck_lines": 1,
+    "ad_default": 6,
+    "ad_columns": 2,
+    "columns": 5,
+    "gutter": 10,
+    "layout_slots": {
+      "masthead": {
+        "x": 0.02,
+        "y": 0.005,
+        "w": 0.42,
+        "h": 0.08
+      },
+      "issue": {
+        "x": 0.46,
+        "y": 0.018,
+        "w": 0.24,
+        "h": 0.026
+      },
+      "badge": {
+        "x": 0.75,
+        "y": 0.01,
+        "w": 0.25,
+        "h": 0.055
+      },
+      "headline": {
+        "x": 0.0,
+        "y": 0.12,
+        "w": 1.0,
+        "h": 0.09
+      },
+      "deck": {
+        "x": 0.0,
+        "y": 0.21,
+        "w": 1.0,
+        "h": 0.03
+      },
+      "lead": {
+        "x": 0.0,
+        "y": 0.265,
+        "w": 0.72,
+        "h": 0.485
+      },
+      "caption": {
+        "x": 0.0,
+        "y": 0.76,
+        "w": 0.72,
+        "h": 0.03
+      },
+      "snippets": {
+        "x": 0.75,
+        "y": 0.265,
+        "w": 0.25,
+        "h": 0.19
+      },
+      "ads": {
+        "x": 0.75,
+        "y": 0.495,
+        "w": 0.25,
+        "h": 0.41
+      }
+    },
+    "font_key": "hong-kong-heiti",
+    "ad_gap": 12,
+    "ad_min_width": 180,
+    "ad_min_height": 120,
+    "snippet_style": "staggered-columns",
+    "snippet_columns": 1,
+    "floating_ad_slots": [
+      {
+        "x": 0.75,
+        "y": 0.47,
+        "w": 0.25,
+        "h": 0.155,
+        "aspect": "tall",
+        "priority": 0
+      },
+      {
+        "x": 0.75,
+        "y": 0.655,
+        "w": 0.25,
+        "h": 0.13,
+        "aspect": "square",
+        "priority": 1
+      },
+      {
+        "x": 0.0,
+        "y": 0.805,
+        "w": 0.38,
+        "h": 0.14,
+        "aspect": "wide",
+        "priority": 2
+      },
+      {
+        "x": 0.42,
+        "y": 0.79,
+        "w": 0.3,
+        "h": 0.16,
+        "aspect": "square",
+        "priority": 3
+      },
+      {
+        "x": 0.75,
+        "y": 0.815,
+        "w": 0.25,
+        "h": 0.15,
+        "aspect": "wide",
+        "priority": 4
+      },
+      {
+        "x": 0.02,
+        "y": 0.955,
+        "w": 0.68,
+        "h": 0.04,
+        "aspect": "wide",
+        "priority": 5
+      }
+    ],
+    "ad_box_pattern": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 1.0,
+        "h": 0.22
+      },
+      {
+        "x": 0.04,
+        "y": 0.27,
+        "w": 0.43,
+        "h": 0.26
+      },
+      {
+        "x": 0.53,
+        "y": 0.24,
+        "w": 0.43,
+        "h": 0.3
+      },
+      {
+        "x": 0.0,
+        "y": 0.59,
+        "w": 0.48,
+        "h": 0.2
+      },
+      {
+        "x": 0.54,
+        "y": 0.62,
+        "w": 0.46,
+        "h": 0.2
+      },
+      {
+        "x": 0.08,
+        "y": 0.84,
+        "w": 0.84,
+        "h": 0.14
+      }
+    ],
+    "retro_filter": "belle-epoque-print",
+    "retro_filter_strength": 0.42
+  },
+  "korea": {
+    "layout_family": "clean-developmental-daily",
+    "decor": "olympic",
+    "real_masthead_name": "Chosun Ilbo",
+    "paper_color": "#f7f4ea",
+    "ink_color": "#0d1728",
+    "accent_color": "#214aa5",
+    "muted_color": "#c5ccd4",
+    "masthead_names": [
+      "SEOUL OLYMPIC DAILY",
+      "GANGNAM MORNING",
+      "THE HAN RIVER STANDARD"
+    ],
+    "real_masthead_assets": [
+      "assets/newspaper/korea/real-mastheads/chosun-ilbo-choice-01-archive-clean.png",
+      "assets/newspaper/korea/real-mastheads/chosun-ilbo-choice-02-press-bold.png",
+      "assets/newspaper/korea/real-mastheads/chosun-ilbo-choice-03-faded-scan.png",
+      "assets/newspaper/korea/real-mastheads/chosun-ilbo-choice-04-ruled-edition.png",
+      "assets/newspaper/korea/real-mastheads/chosun-ilbo-choice-05-boxed-print.png"
+    ],
+    "historical_masthead_assets": [
+      "assets/newspaper/korea/real-mastheads/chosun-ilbo-choice-01-archive-clean.png",
+      "assets/newspaper/korea/real-mastheads/chosun-ilbo-choice-02-press-bold.png",
+      "assets/newspaper/korea/real-mastheads/chosun-ilbo-choice-03-faded-scan.png",
+      "assets/newspaper/korea/real-mastheads/chosun-ilbo-choice-04-ruled-edition.png",
+      "assets/newspaper/korea/real-mastheads/chosun-ilbo-choice-05-boxed-print.png"
+    ],
+    "masthead_assets": [
+      "assets/newspaper/korea/masthead-01.png",
+      "assets/newspaper/korea/masthead-02.png",
+      "assets/newspaper/korea/masthead-03.png"
+    ],
+    "divider_asset": "assets/newspaper/korea/divider.png",
+    "badge_asset": "assets/newspaper/korea/badge-special.png",
+    "advertising_labels": [
+      "SEDAN",
+      "OLYMPIC",
+      "TV SET",
+      "BANK",
+      "STORE",
+      "COFFEE"
+    ],
+    "default_ad_assets": [
+      "assets/newspaper/korea/ad-01.png",
+      "assets/newspaper/korea/ad-02.png",
+      "assets/newspaper/korea/ad-03.png",
+      "assets/newspaper/korea/ad-04.png",
+      "assets/newspaper/korea/ad-05.png",
+      "assets/newspaper/korea/ad-06.png"
+    ],
+    "use_static_ads_default": false,
+    "palette": [
+      "#070912",
+      "#11192b",
+      "#273550",
+      "#46546a",
+      "#c6ccd0",
+      "#ffffff",
+      "#f3e4bd",
+      "#f5c057",
+      "#d7472f",
+      "#214aa5",
+      "#38aeea",
+      "#15945f"
+    ],
+    "page_width_ratio": 1.08,
+    "page_height_ratio": 1.48,
+    "header_ratio": 0.18,
+    "lower_ratio": 0.23,
+    "lead_ratio": 0.46,
+    "lead_image_scale": 1.0,
+    "masthead_box_ratio": 0.13,
+    "headline_lines": 2,
+    "deck_lines": 1,
+    "ad_default": 6,
+    "ad_columns": 3,
+    "columns": 6,
+    "gutter": 12,
+    "layout_slots": {
+      "masthead": {
+        "x": 0.0,
+        "y": 0.005,
+        "w": 0.52,
+        "h": 0.09
+      },
+      "issue": {
+        "x": 0.54,
+        "y": 0.018,
+        "w": 0.24,
+        "h": 0.026
+      },
+      "badge": {
+        "x": 0.8,
+        "y": 0.012,
+        "w": 0.2,
+        "h": 0.052
+      },
+      "headline": {
+        "x": 0.0,
+        "y": 0.135,
+        "w": 0.7,
+        "h": 0.08
+      },
+      "deck": {
+        "x": 0.0,
+        "y": 0.215,
+        "w": 0.7,
+        "h": 0.03
+      },
+      "lead": {
+        "x": 0.0,
+        "y": 0.27,
+        "w": 0.72,
+        "h": 0.455
+      },
+      "caption": {
+        "x": 0.0,
+        "y": 0.735,
+        "w": 0.72,
+        "h": 0.03
+      },
+      "snippets": {
+        "x": 0.75,
+        "y": 0.135,
+        "w": 0.25,
+        "h": 0.59
+      },
+      "ads": {
+        "x": 0.0,
+        "y": 0.805,
+        "w": 1.0,
+        "h": 0.155
+      }
+    },
+    "font_key": "korean-gothic",
+    "ad_gap": 12,
+    "ad_min_width": 190,
+    "ad_min_height": 105,
+    "snippet_style": "staggered-columns",
+    "snippet_columns": 1,
+    "floating_ad_slots": [
+      {
+        "x": 0.75,
+        "y": 0.42,
+        "w": 0.25,
+        "h": 0.145,
+        "aspect": "square",
+        "priority": 0
+      },
+      {
+        "x": 0.75,
+        "y": 0.59,
+        "w": 0.25,
+        "h": 0.135,
+        "aspect": "tall",
+        "priority": 1
+      },
+      {
+        "x": 0.0,
+        "y": 0.795,
+        "w": 0.34,
+        "h": 0.135,
+        "aspect": "wide",
+        "priority": 2
+      },
+      {
+        "x": 0.38,
+        "y": 0.775,
+        "w": 0.28,
+        "h": 0.17,
+        "aspect": "square",
+        "priority": 3
+      },
+      {
+        "x": 0.7,
+        "y": 0.785,
+        "w": 0.3,
+        "h": 0.15,
+        "aspect": "wide",
+        "priority": 4
+      },
+      {
+        "x": 0.04,
+        "y": 0.955,
+        "w": 0.56,
+        "h": 0.04,
+        "aspect": "wide",
+        "priority": 5
+      }
+    ],
+    "ad_box_pattern": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.24,
+        "h": 0.78
+      },
+      {
+        "x": 0.27,
+        "y": 0.04,
+        "w": 0.21,
+        "h": 0.66
+      },
+      {
+        "x": 0.51,
+        "y": 0.0,
+        "w": 0.23,
+        "h": 0.76
+      },
+      {
+        "x": 0.77,
+        "y": 0.08,
+        "w": 0.23,
+        "h": 0.68
+      },
+      {
+        "x": 0.28,
+        "y": 0.76,
+        "w": 0.3,
+        "h": 0.22
+      },
+      {
+        "x": 0.62,
+        "y": 0.78,
+        "w": 0.34,
+        "h": 0.2
+      }
+    ],
+    "retro_filter": "belle-epoque-print",
+    "retro_filter_strength": 0.4
+  }
+}

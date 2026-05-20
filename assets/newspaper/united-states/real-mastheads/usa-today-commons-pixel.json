@@ -1,0 +1,13 @@
+{
+  "source": "assets/newspaper/united-states/source-scans/usa-today-commons-2012.png",
+  "output": "assets/newspaper/united-states/real-mastheads/usa-today-commons-pixel.png",
+  "size": [
+    1280,
+    668
+  ],
+  "crop": null,
+  "pixel_width": 720,
+  "colors": 6,
+  "monochrome": false,
+  "remove_light_background": false
+}

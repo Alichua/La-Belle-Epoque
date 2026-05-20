@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pixel Belle Epoque"
+  short_description: "Create Belle Epoque pixel newspapers, with optional illustration variants"
+  default_prompt: "Use $pixel-belle-epoque for France on July 1."
