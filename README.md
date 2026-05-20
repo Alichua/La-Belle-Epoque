@@ -1,5 +1,7 @@
 # La Belle Epoque
 
+[English](docs/README.en-US.md) | [Français](docs/README.fr.md) | [日本語](docs/README.ja.md) | [简体中文](docs/README.zh-CN.md) | [繁體中文](docs/README.zh-HK.md) | [한국어](docs/README.ko.md)
+
 ![After image generation](examples/stage2-after-image-gen.png)
 
 Pick a country. Pick a date.
