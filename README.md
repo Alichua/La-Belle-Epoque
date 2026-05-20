@@ -38,6 +38,10 @@ Supported countries:
 
 ## Gallery
 
+Stage 1 is the native output of the skill: a source-grounded pixel newspaper assembled from the researched event, generated sprites, mastheads, ads, and the retro print renderer.
+
+Stage 2 is optional. When image generation/editing is available, the finished newspaper is restyled into a cleaner commercial-illustration version while keeping the same layout.
+
 | Stage 1: Pixel Newspaper | Stage 2: After Image Generation |
 | --- | --- |
 | <img src="examples/stage1-pixel-newspaper.png" width="420" alt="Stage 1 pixel newspaper"> | <img src="examples/stage2-after-image-gen.png" width="420" alt="Stage 2 after image generation"> |
