@@ -8,6 +8,15 @@ La Belle Epoque turns that moment into a retro front page: first as a pixel news
 
 Part archive, part city-pop poster, part nostalgia trip.
 
+Six Belle Epoques, loosely defined:
+
+- 🇫🇷 France, 1870s-1914: the classic Belle Epoque, Paris boulevards, Art Nouveau, cabarets, posters, electricity, and modern crowds.
+- 🇺🇸 United States, 1980-2001: malls, cable TV, finance, early computers, neon optimism, and the long consumer boom before the mood broke.
+- 🇯🇵 Japan, 1955-1991: postwar growth into the bubble years, Tokyo lights, City Pop, department stores, records, taxis, and fragile abundance.
+- 🇨🇳 China, 1978-2012: reform and opening, construction dust, factories, new towers, appliances, markets, and the speed of becoming modern.
+- 🇭🇰 Hong Kong, 1970s-1997: harbor neon, cinema, finance, density, taxis, wet streets, and the countdown before the handover.
+- 🇰🇷 Korea, 1988-1997: Seoul after the Olympics, apartments, electronics, department stores, middle-class acceleration, and the IMF shock waiting nearby.
+
 ## What It Does
 
 This is a Codex skill. Give it a country and a date:
