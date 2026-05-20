@@ -2,10 +2,11 @@
 
 ![After image generation](examples/stage2-after-image-gen.png)
 
-Retrowave, old newspapers, city lights, and the strange comfort of nostalgia.
-La Belle Epoque turns a country and a date into a fake front page from a remembered golden age, then optionally drifts it into a glossy commercial-illustration dream.
+Pick a country. Pick a date.
 
-Back to Belle Epoque. Back to the city that almost existed.
+La Belle Epoque turns that moment into a retro front page: first as a pixel newspaper, then, if your session supports image generation, as a glossy commercial illustration.
+
+Part archive, part city-pop poster, part nostalgia trip.
 
 ## What It Does
 
